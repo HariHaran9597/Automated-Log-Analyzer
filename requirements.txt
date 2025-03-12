@@ -1,0 +1,12 @@
+pandas==2.1.0
+matplotlib==3.7.2
+regex==2023.8.8
+python-dateutil==2.8.2
+numpy==1.24.3
+pytz==2023.3
+schedule==1.2.0
+seaborn==0.12.2
+pytest==7.4.0
+psutil==5.9.5  # For system metrics
+pytest-cov==4.1.0  # For test coverage reports
+tqdm==4.66.1  # For progress bars
