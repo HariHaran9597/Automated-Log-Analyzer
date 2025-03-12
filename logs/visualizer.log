@@ -1,0 +1,10 @@
+2025-03-12 12:49:52,512 - visualizer - INFO - Starting visualization generation...
+2025-03-12 12:49:55,720 - visualizer - INFO - Successfully saved visualization: severity_distribution_20250312_124952.png
+2025-03-12 12:49:55,748 - visualizer - ERROR - Error creating time series plot: index must be a MultiIndex to unstack, <class 'pandas.core.indexes.base.Index'> was passed
+2025-03-12 12:49:56,068 - visualizer - INFO - Successfully saved visualization: hourly_distribution_20250312_124955.png
+2025-03-12 12:49:56,068 - visualizer - INFO - Visualization generation completed. 2/3 visualizations created successfully.
+2025-03-12 12:56:02,250 - visualizer - INFO - Starting visualization generation...
+2025-03-12 12:56:02,449 - visualizer - INFO - Successfully saved visualization: severity_distribution_20250312_125602.png
+2025-03-12 12:56:02,467 - visualizer - ERROR - Error creating time series plot: index must be a MultiIndex to unstack, <class 'pandas.core.indexes.base.Index'> was passed
+2025-03-12 12:56:02,737 - visualizer - INFO - Successfully saved visualization: hourly_distribution_20250312_125602.png
+2025-03-12 12:56:02,740 - visualizer - INFO - Visualization generation completed. 2/3 visualizations created successfully.

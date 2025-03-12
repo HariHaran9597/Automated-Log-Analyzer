@@ -1,0 +1,10 @@
+2024-03-12 01:15:23 INFO Server started successfully
+2024-03-12 01:15:24 INFO Database connection established response_time=50.2
+2024-03-12 01:16:30 WARNING High CPU usage detected response_time=1200.5
+2024-03-12 01:17:45 ERROR Database connection failed response_time=8000.0
+2024-03-12 01:18:00 INFO Request processed successfully response_time=120.3
+2024-03-12 01:18:30 WARNING Memory usage above 80% response_time=890.1
+2024-03-12 01:19:45 ERROR API endpoint /users/auth timeout response_time=15000.0
+2024-03-12 01:20:00 INFO Cache refreshed successfully response_time=250.4
+2024-03-12 01:21:15 WARNING Disk usage above 90% response_time=450.8
+2024-03-12 01:22:30 INFO Backup completed successfully response_time=3500.2
