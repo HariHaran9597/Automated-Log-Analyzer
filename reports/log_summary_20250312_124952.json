@@ -1,0 +1,10 @@
+{
+    "total_logs": 1010,
+    "error_count": 122,
+    "warning_count": 208,
+    "info_count": 680,
+    "avg_response_time": 2163.233102081269,
+    "max_response_time": 15000.0,
+    "start_time": "2024-03-12 01:15:23",
+    "end_time": "2025-03-12 12:43:18"
+}
